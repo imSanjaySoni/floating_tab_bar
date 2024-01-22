@@ -1,0 +1,24 @@
+name: floating_tab_bar
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  cupertino_icons: ^1.0.6
+  flutter:
+    sdk: flutter
+  macos_ui:
+    git:
+      url: https://github.com/imSanjaySoni/macos_ui.git
+      ref: ss/tabs_visibility
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: false
