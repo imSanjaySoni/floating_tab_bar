@@ -5,3 +5,4 @@ Inspired by [Kavsoft](https://www.youtube.com/watch?v=DA2EMt38iLg&feature=youtu.
 ## Flutter + SwiftUI + PlatformChannel
 
 <video src='https://github.com/imSanjaySoni/floating_tab_bar/raw/main/screenshots/demo.mov' width=100% autoplay muted/>
+
